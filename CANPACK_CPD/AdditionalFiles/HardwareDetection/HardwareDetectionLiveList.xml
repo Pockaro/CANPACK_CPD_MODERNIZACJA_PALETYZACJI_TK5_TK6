@@ -1,0 +1,32 @@
+<OnlineDevices>
+  <OnlineDevice VendorID="10C" DeviceID="1" TypeID="10C0001" DeviceType="ABS-PRT">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>abs-prt1</NameOfStation>
+    <MacAddress>00-30-11-50-4E-4F</MacAddress>
+    <IPAddress>192.168.1.3</IPAddress>
+  </OnlineDevice>
+  <OnlineDevice VendorID="2A" DeviceID="51A" TypeID="2A051A" DeviceType="SINAMICS V90 PN">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>tk5xotk6xr37.t231f07</NameOfStation>
+    <MacAddress>E8-EF-22-54-5A-E4</MacAddress>
+    <IPAddress>192.168.1.4</IPAddress>
+  </OnlineDevice>
+  <OnlineDevice VendorID="28E" DeviceID="20" TypeID="28E0020" DeviceType="PROFINET IO-Device">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>tk5xotk6xr47.a116e3</NameOfStation>
+    <MacAddress>14-1A-AA-00-66-A8</MacAddress>
+    <IPAddress>192.168.1.8</IPAddress>
+  </OnlineDevice>
+  <OnlineDevice VendorID="2A" DeviceID="51A" TypeID="2A051A" DeviceType="SINAMICS V90 PN">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>tk5xotk6xr38.t24dc12</NameOfStation>
+    <MacAddress>E8-EF-22-54-E1-49</MacAddress>
+    <IPAddress>192.168.1.5</IPAddress>
+  </OnlineDevice>
+  <OnlineDevice VendorID="2A" DeviceID="51A" TypeID="2A051A" DeviceType="SINAMICS V90 PN">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>tk5xotk6xr36.t221ffb</NameOfStation>
+    <MacAddress>E8-EF-22-54-5F-80</MacAddress>
+    <IPAddress>192.168.1.12</IPAddress>
+  </OnlineDevice>
+</OnlineDevices>
