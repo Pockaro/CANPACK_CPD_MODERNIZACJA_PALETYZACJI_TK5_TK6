@@ -2,9 +2,9 @@
   <OnlineDevice VendorID="10C" DeviceID="1" TypeID="10C0001" DeviceType="ABS-PRT" IsInSameSubnetAsOwnPgPc="True">
     <DeviceRole>Device</DeviceRole>
     <OrderNumber>ABS-PRT</OrderNumber>
-    <NameOfStation>abs-prt1</NameOfStation>
+    <NameOfStation>tk5xotk6xrrobotfd7d</NameOfStation>
     <MacAddress>00-30-11-50-4E-4F</MacAddress>
-    <IPAddress>192.168.1.3</IPAddress>
+    <IPAddress>192.168.1.18</IPAddress>
     <SubnetMask>255.255.255.0</SubnetMask>
     <RevisionPrefix>V</RevisionPrefix>
     <RevisionVersionMajor>5</RevisionVersionMajor>
