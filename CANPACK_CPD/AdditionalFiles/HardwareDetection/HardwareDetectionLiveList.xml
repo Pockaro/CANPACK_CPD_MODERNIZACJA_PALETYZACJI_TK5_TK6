@@ -17,16 +17,22 @@
     <MacAddress>E8-EF-22-54-5F-80</MacAddress>
     <IPAddress>192.168.1.12</IPAddress>
   </OnlineDevice>
-  <OnlineDevice VendorID="2A" DeviceID="51A" TypeID="2A051A" DeviceType="SINAMICS V90 PN">
+  <OnlineDevice VendorID="28E" DeviceID="20" TypeID="28E0020" DeviceType="PROFINET IO-Device">
     <DeviceRole>Device</DeviceRole>
-    <NameOfStation>tk5xotk6xr38.t24dc12</NameOfStation>
-    <MacAddress>E8-EF-22-54-E1-49</MacAddress>
-    <IPAddress>192.168.1.5</IPAddress>
+    <NameOfStation>tk5xotk6xr45.a1xr46.a1541f</NameOfStation>
+    <MacAddress>14-1A-AA-00-65-D0</MacAddress>
+    <IPAddress>192.168.1.6</IPAddress>
   </OnlineDevice>
   <OnlineDevice VendorID="2A" DeviceID="51A" TypeID="2A051A" DeviceType="SINAMICS V90 PN">
     <DeviceRole>Device</DeviceRole>
     <NameOfStation>tk5xotk6xr37.t231f07</NameOfStation>
     <MacAddress>E8-EF-22-54-5A-E4</MacAddress>
     <IPAddress>192.168.1.4</IPAddress>
+  </OnlineDevice>
+  <OnlineDevice VendorID="2A" DeviceID="51A" TypeID="2A051A" DeviceType="SINAMICS V90 PN">
+    <DeviceRole>Device</DeviceRole>
+    <NameOfStation>tk5xotk6xr38.t24dc12</NameOfStation>
+    <MacAddress>E8-EF-22-54-E1-49</MacAddress>
+    <IPAddress>192.168.1.5</IPAddress>
   </OnlineDevice>
 </OnlineDevices>
